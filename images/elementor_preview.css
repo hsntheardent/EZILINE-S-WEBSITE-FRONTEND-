@@ -1,0 +1,34 @@
+#certificate_checker transition,#stm_lms_google_classroom_grid .asignments_grid__pagination{display:none}
+
+
+
+
+
+<div class="ezi">
+<p><h1>EZITECH</h1></p>
+<h7> learning institute.</h7>
+</div>
+
+
+
+
+
+.ezi{
+    border: 2px solid #313131;
+    border-radius: 40px;
+
+}
+.ezi h1{
+padding-top: 70px;
+padding-left: 50px;
+font-size: 50px;
+color: aliceblue;
+
+}
+.ezi h7{
+padding-left: 55px;
+font-size: large;
+color: aliceblue;
+padding-top: 0;
+
+}
